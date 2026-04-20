@@ -2,7 +2,7 @@
 
 Playwright-based downloader for VW Group erWin wiring/fitting PDFs.
 
-- Logs in to erWin
+- Logs in to erWin https://volkswagen.erwin-store.com/
 - Looks up VINs
 - Captures chapter list from `getwdnavigationtree`
 - Downloads documents via `printWiringDiagram`
